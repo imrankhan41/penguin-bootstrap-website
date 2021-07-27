@@ -13,7 +13,8 @@ html, body {
     background: #FFFFFF;
   }
 .header-bg-color{
-    background: #FFFBF0;
+    /* background: #FFFBF0; */
+    background-color: #589088;
 }  
 .logo{
     width: 292px;
